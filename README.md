@@ -16,6 +16,6 @@ solucionar problemas de matemáticos linearmente separáveis, que são ​​mai
 resolvidos. No exemplo o perceptrons são treinados para resolver
 portas logicas and e or.
 Ate um Perceptron multicamada que e usado para resolver problemas linearmente não
-separáveis ​​que são mais complexos e a maioria do mundo real, nesse exemplo o Perceptron
+separáveis ​​que são mais complexos é são a maioria dos problemas do mundo real, nesse exemplo o Perceptron
 e treinado para resolver portas logicas xor e nand. Usando Anaconda
 e a biblioteca numpy.
