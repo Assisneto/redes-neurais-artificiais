@@ -33,9 +33,9 @@ saidas = np.array([[0],[1],[1],[0]])
 pesos0 = 2*np.random.random((2,3)) - 1
 pesos1 = 2*np.random.random((3,1)) - 1
 
-epocas = 1000000
-taxaAprendizagem = 0.6
-momento = 1
+epocas = 10000000
+taxaAprendizagem = 0.5
+momento = 1.005
 
 for j in range(epocas):
     camadaEntrada = entradas
