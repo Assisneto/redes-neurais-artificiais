@@ -34,7 +34,7 @@ pesos0 = 2*np.random.random((2,3)) - 1
 pesos1 = 2*np.random.random((3,1)) - 1
 
 epocas = 10000000
-taxaAprendizagem = 0.5
+taxaAprendizagem = 0.7
 momento = 1.005
 
 for j in range(epocas):
