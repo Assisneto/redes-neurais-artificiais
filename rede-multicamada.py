@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Sep 19 20:38:44 2017
-
-@author: Jones
+Created on Fri Nov  3 19:02:32 2017
+@author: Assisneto Damasceno
 """
 import numpy as np
 
